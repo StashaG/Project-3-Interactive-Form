@@ -1,1 +1,1 @@
-$("#text").focus();
+$("#name").focus();
