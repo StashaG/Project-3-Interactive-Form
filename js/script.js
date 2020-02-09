@@ -2,3 +2,4 @@
 $("#name").focus(); 
 
 //Text field appears when the user selects Other from the menu 
+$("#other-title").hide();
